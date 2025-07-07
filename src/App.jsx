@@ -238,7 +238,7 @@ function App() {
                     textAlign: 'center'
                   }}
                 >
-                  KiranaAI Pro
+                  SAP Hackfest
                 </Typography>
                 <Typography 
                   variant="body2" 
